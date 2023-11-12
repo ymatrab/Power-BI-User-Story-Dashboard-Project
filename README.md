@@ -2,6 +2,9 @@
 
 This repository contains the Power BI dashboard project for analyzing user stories related to NOMAD's business analytics. The dashboard includes three main sections: Strategic Dashboard, Operational Dashboard, and Analytical Dashboard.
 
+![Strategic Dashboard](https://github.com/ymatrab/Power-BI-User-Story-Dashboard-Project/blob/main/Strat.png)
+![Operational Dashboard](https://github.com/ymatrab/Power-BI-User-Story-Dashboard-Project/blob/main/operational.png)
+![Analytical Dashboard](https://github.com/ymatrab/Power-BI-User-Story-Dashboard-Project/blob/main/analytical.png)
 
 ## Project Overview
 
